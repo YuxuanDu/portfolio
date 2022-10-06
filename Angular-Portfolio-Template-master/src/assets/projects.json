@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "preview": "assets/media/projects/solar-screen.png",
+      "created_at": "2019-07-20T14:18:15.923+02:00",
+      "name": "SOLAR-FRNSW",
+      "description": "SOLAR-FRNSW is a new mental health focused mobile app for Fire & Rescue NSW. It is a recovery program for survivors of disasters or other traumatic events who are experienceing ongoing distress or adjustment difficulties. \n\nThe app includes a user chosen male or female voice over. The modules include text, illustrations, videos, animations, quizzes, checklists, form inputs and check in notification on commitments. There is also a notification scheduler feature and capacity for users to create personalised plan.",
+      "google_url": "https://play.google.com/store/apps/details?id=com.solar.frnsw",
+      "ios_url": "https://apps.apple.com/us/app/solar-frnsw/id1579793536"
+    },
+    {
+      "preview": "assets/media/projects/pappyon-screen.png",
+      "created_at": "2019-07-20T14:18:15.923+02:00",
+      "name": "Pappyon:Business Networking",
+      "description": "Pappyon is an app to streamlines your professional networking into one hub, bring together all contact details, social links and online channels into one place for optimized relationship. \n\nI joined the development team and helped with upgrading the entire project from Flutter 1 to Flutter 2.3 with updating all out dated plugins and refactoring deprecated code. Also implemented the a few key functions such as video capture, video play/uploading and reply comment.",
+      "google_url": "https://play.google.com/store/apps/details?id=com.pappyon.app",
+      "ios_url": "https://apps.apple.com/au/app/pappyon-business-networking/id1544309052"
+    },
+    {
+      "preview": "assets/media/projects/more-screen.png",
+      "created_at": "2019-07-20T14:24:00.709+02:00",
+      "name": "MoRE Program",
+      "description": "MoRE Program is an mobile application to help people manage their worries and mood. \n\nThe app included a schedule of activities; a mood monitor, prompted with notification reminders. The app integrates with a Content Management System(CMS) to allow the team to make simple content changes to the modules.",
+      "google_url": "https://play.google.com/store/apps/details?id=com.pappyon.app",
+      "ios_url": "https://apps.apple.com/us/app/more-program/id1597829343"
+    },
+    {
+      "preview": "assets/media/projects/magento-ionic.png",
+      "created_at": "2019-07-20T14:31:12.567+02:00",
+      "name": "Built a cross platform ionic mobile shopping sing Magento's Restful API",
+      "description": "Built an ionic app that connected to magento's restful API without the need for a bridge sitting on the server (Probably will need  to build one to access some higher privileged resources) \n\nI have more screenshots of it in my LinkedIn Post Here \nhttps://www.linkedin.com/feed/update/urn:li:activity:6418818145552867328"
+    },
+    {
+      "preview": "assets/media/projects/pb.PNG",
+      "created_at": "2020-02-27T23:48:54.263+02:00",
+      "name": "Peebee Mobile Apps",
+      "description": "Built a cross platform hybrid app that connects members of the general public with fitness trainers on demand\n\nIn Addition to the Client application, I was involved in building the Peebee for Trainers Mobile App\n\nAndroid \nhttps://play.google.com/store/apps/details?id=app.peebee.customer\u0026hl=en_ZA \n\nIOS \nhttps://apps.apple.com/us/app/peebee/id1441425142"
+    },
+    {
+      "preview": "assets/media/projects/ionic-custom-form-builder.png",
+      "created_at": "2020-03-03T09:50:59.791+02:00",
+      "name": "Open Source Form Builder Library for Ionic 4",
+      "description": "I worked on a custom library for building ionic 4 forms that I have published on npm, It managed to get a star from one of the core ionic team developers on github.\n\nYou can have a look at it on github \n\nhttps://github.com/ronald-hove/ion-custom-form-builder"
+    }
+  ]
+}

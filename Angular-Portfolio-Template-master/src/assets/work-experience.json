@@ -1,0 +1,73 @@
+{
+  "work": [
+    {
+      "date": "APR 2019 - Present",
+      "title": "Lead App Developer at Spark Digital",
+      "description": "Conduct Work in developing cross-platform mobile applications (iOS and Android) as well as Web apps using Flutter, Ionic and Angular.",
+      "stack": [
+        "Flutter",
+        "Ionic",
+        "Angular",
+        "Cordova",
+        "Capacitor",
+        "Node.js",
+        "Bitbucket",
+        "Agile",
+        "Firebase",
+        "Jira",
+        "Confluence",
+        "Figma",
+        "Trello",
+        "JavaScript",
+        "TypeScript",
+        "RESTful API Development",
+        "WordPress",
+        "PHP"
+      ]
+    },
+    {
+      "date": "DEC 2018 - FEB 2019",
+      "title": "Mobile Application Developer at Loc8 (Internship)",
+      "description": "As the requirement of PY, I joined Loc8 as an intern. I joined the team and responsible for maintaining the existing mobile app, fixing bugs, and help with doing the integration testings.",
+      "stack": [
+        "Xamarin",
+        "Jira",
+        "Github",
+        "MVVM",
+        "C#",
+        ".Net",
+        "Agile"
+      ]
+    },
+    {
+      "date": "NOV 2017 - APR 2018",
+      "title": "Mobile Application Developer at WITEC Design(AUS house)",
+      "description": "Developed a mobile app for the company internal use, which allows employees to check-in on site, upload images and videos.",
+      "stack": [
+        "Native Android",
+        "Java",
+        "Firebase",
+        "Github",
+        "Agile",
+        "Google Map API"
+      ]
+    },
+    {
+      "date": "NOV 2017 - APR 2018",
+      "title": "Mobile Application Developer at Parking Bounty",
+      "description": "Developed a demo app help people to find parking space in busy areas.",
+      "stack": [
+        "Native Android",
+        "Java",
+        "RESTful API Development",
+        "SQL Database",
+        "Data Modeling",
+        "Github",
+        "Agile",
+        "Google Map API",
+        "Google street view API"
+      ]
+    }
+
+  ]
+}

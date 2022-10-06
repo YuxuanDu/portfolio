@@ -1,0 +1,31 @@
+{
+  "email": "wuhanyou@hotmail.com",
+  "location": "Clayton, VIC",
+  "name": "Derek Du",
+  "phone": "0452197085",
+  "avatar": "assets/media/projects/profile_img.jpg",
+  "education": [
+    {
+      "title": "Master of Information Technology",
+      "meta": "Monash University, 2015 – 2017"
+    }
+  ],
+  "about": "I am a senior mobile app developer with five years working experience on Mobile App development. ",
+  "socials": [
+    {
+      "name": "wuhanyou@hotmail.com",
+      "link": "mailto:wuhanyou@hotmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "0470740625",
+      "link": "tel:0470740625",
+      "icon": "fa fa-phone"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/yuxuan-derek-du-15b380130",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}
